@@ -85,7 +85,7 @@ if(isset($_POST['register'])) {
                 <i class='bx bxs-lock-alt'></i>
             </div>
             <div class="remember-forgot">
-                <label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="admin/index.php"><b>Admin</b></a></label>
+                <label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="admin/index.php"><b>Administrador</b></a></label>
                 <a href="recuperables/reset-password.php">¿Olvidaste tu contraseña?</a>
             </div>
 

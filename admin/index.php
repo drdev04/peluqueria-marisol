@@ -56,7 +56,7 @@ if(isset($_POST['login']))
 		<!-- main content start-->
 		<div id="page-wrapper">
 			<div class="main-page login-page ">
-				<h3 class="title1">Página de Acceso Admin</h3>
+				<h3 class="title1">Página de Acceso Administrador</h3>
 				<div class="widget-shadow">
 					<div class="login-top">
 						<h4>Bienvenid@ a tu Sistema Administrativo! </h4>

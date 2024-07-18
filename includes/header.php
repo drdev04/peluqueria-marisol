@@ -16,7 +16,7 @@
               <li><a class="dropdown-item" href="editUser.php">Ver Perfil</a></li>
               <li><a class="dropdown-item" href="historial.php">Pedidos</a></li>
               <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="includes/logoutUser.php">Cerras Sesión</a></li>
+              <li><a class="dropdown-item" href="includes/logoutUser.php">Cerrar Sesión</a></li>
             </ul>
           </li> 
           <li class="nav-item">
