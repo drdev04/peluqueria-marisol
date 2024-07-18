@@ -17,7 +17,7 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 - Gestión de usuarios (Crear, Leer, Actualizar, Eliminar)
 
 ## Tecnologías Utilizadas
-https://img.shields.io/badge/PHP-100%25
+# https://img.shields.io/badge/PHP-100%25
 
 - **PHP**: Lenguaje de programación para el backend.
 - **MySQL**: Base de datos relacional para almacenar la información.
