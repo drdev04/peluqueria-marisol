@@ -36,6 +36,10 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 ![Static Badge](https://img.shields.io/badge/Servidor%20XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/v_8.2.12-red?logoSize=auto)
 
+![Static Badge](https://img.shields.io/badge/VSCode-%235D87BF?style=for-the-badge&logo=v&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/v_1.91-red?logoSize=auto)
+
+
 ## Requisitos ⚠️
 
 - [XAMPP](https://www.apachefriends.org/index.html) instalado en tu máquina.
