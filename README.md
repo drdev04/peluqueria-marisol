@@ -17,11 +17,15 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 - Gestión de usuarios (Crear, Leer, Actualizar, Eliminar)
 
 ## Tecnologías Utilizadas
-![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black) Lenguaje de programación para el backend.
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black) Interactividad en el frontend.
-![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoSize=auto&labelColor=black) Estilos y diseño del frontend.
-![Static Badge](https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=MySQL&logoSize=auto&labelColor=black) Base de datos relacional para almacenar la información.
-![Static Badge](https://img.shields.io/badge/Servidor%20XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoSize=auto&labelColor=black) Servidor local para desarrollo.
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoSize=auto&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=MySQL&logoSize=auto&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/Servidor%20XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoSize=auto&labelColor=black)
 
 ## Requisitos
 
