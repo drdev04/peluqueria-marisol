@@ -18,6 +18,9 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 - Gestión de facturas (Crear, Leer, Actualizar, Eliminar)
 
 ## Tecnologías Utilizadas 💻
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-red?logoSize=auto)
+
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/v_8.2.12-red?logoSize=auto)
 
