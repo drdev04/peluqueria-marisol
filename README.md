@@ -41,7 +41,7 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 - Navegador web moderno (Google Chrome, Firefox, etc.).
 
 ## Licencia 📄
-Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ¡Gracias por utilizar nuestro proyecto de peluquería! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
 
