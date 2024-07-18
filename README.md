@@ -7,18 +7,19 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 ## Características
 
 ### Para los Clientes:
-- Visualización de servicios
-- Reservas de citas
+- Visualización de productos y servicios
+- Reservas de citas y citas especiales
 - Formulario de contacto
 
 ### Para el Administrador (cPanel):
 - Gestión de servicios (Crear, Leer, Actualizar, Eliminar)
 - Gestión de citas (Crear, Leer, Actualizar, Eliminar)
 - Gestión de usuarios (Crear, Leer, Actualizar, Eliminar)
+- Gestión de facturas (Crear, Leer, Actualizar, Eliminar)
 
 ## Tecnologías Utilizadas
-![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/v_8.2.12-red?logoSize=auto)
-
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/v_8.2.12-red?logoSize=auto)
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black)
 
@@ -37,7 +38,7 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 ## Instalación y Configuración
 
 ### 1. Clonar el Repositorio
-git clone https://github.com/tu-usuario/tu-repositorio-peluqueria.git
+git clone https://github.com/tu-usuario/peluqueria-marisol.git
 
 ### 2. Configurar XAMPP
 Inicia el panel de control de XAMPP y arranca los servicios de Apache y MySQL.
@@ -48,7 +49,7 @@ Crea una nueva base de datos llamada peluqueria.
 Importa el archivo peluqueria.sql ubicado en la carpeta database del proyecto.
 
 ### 4. Configurar el Archivo de Conexión a la Base de Datos
-Navega a la carpeta config y abre el archivo db.php.
+Navega a la carpeta config y abre el archivo dbconnection.php.
 Configura las credenciales de la base de datos según tu entorno de XAMPP.
 
 <?php
