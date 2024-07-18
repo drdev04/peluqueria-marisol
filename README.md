@@ -1,6 +1,6 @@
 # Página Web + Panel Administrativo para Peluquería Marisol
 
-## Descripción
+## Descripción 🤓
 
 Este proyecto consiste en una página web para una peluquería que permite a los clientes ver los servicios ofrecidos, reservar citas y contactar con la peluquería. Además, incluye un panel administrativo (cPanel) para que el administrador de la peluquería gestione los servicios, citas y usuarios. El proyecto está desarrollado utilizando PHP, MySQL, JavaScript y CSS. Utilizamos Visual Studio Code como editor de código y XAMPP como servidor local.
 
