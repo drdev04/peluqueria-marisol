@@ -4,20 +4,20 @@
 
 Este proyecto consiste en una página web para una peluquería que permite a los clientes ver los servicios ofrecidos, reservar citas y contactar con la peluquería. Además, incluye un panel administrativo (cPanel) para que el administrador de la peluquería gestione los servicios, citas y usuarios. El proyecto está desarrollado utilizando PHP, MySQL, JavaScript y CSS. Utilizamos Visual Studio Code como editor de código y XAMPP como servidor local.
 
-## Características
+## Características 😀
 
-### Para los Clientes:
+### Para los Clientes: 👥
 - Visualización y compra de productos y servicios
 - Reservas de citas y citas especiales
 - Formulario de contacto
 
-### Para el Administrador (cPanel):
+### Para el Administrador (cPanel): 👤
 - Gestión de servicios (Crear, Leer, Actualizar, Eliminar)
 - Gestión de citas (Crear, Leer, Actualizar, Eliminar)
 - Gestión de usuarios (Crear, Leer, Actualizar, Eliminar)
 - Gestión de facturas (Crear, Leer, Actualizar, Eliminar)
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas 💻
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/v_8.2.12-red?logoSize=auto)
 
@@ -33,14 +33,14 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 ![Static Badge](https://img.shields.io/badge/Servidor%20XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/v_8.2.12-red?logoSize=auto)
 
-## Requisitos
+## Requisitos ⚠️
 
 - [XAMPP](https://www.apachefriends.org/index.html) instalado en tu máquina.
 - [MySQL](https://www.mysql.com/products/workbench/) instalado en tu máquina
 - [Visual Studio Code](https://code.visualstudio.com/) instalado.
 - Navegador web moderno (Google Chrome, Firefox, etc.).
 
-Licencia
+## Licencia 📄
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
 ¡Gracias por utilizar nuestro proyecto de peluquería! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
