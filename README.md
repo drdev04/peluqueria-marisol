@@ -7,7 +7,7 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 ## Características
 
 ### Para los Clientes:
-- Visualización de productos y servicios
+- Visualización y compra de productos y servicios
 - Reservas de citas y citas especiales
 - Formulario de contacto
 
