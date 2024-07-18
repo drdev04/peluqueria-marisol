@@ -17,7 +17,8 @@ Este proyecto consiste en una página web para una peluquería que permite a los
 - Gestión de usuarios (Crear, Leer, Actualizar, Eliminar)
 
 ## Tecnologías Utilizadas
-![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/v_8.2.12-red?logoSize=auto)
+
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black)
 
